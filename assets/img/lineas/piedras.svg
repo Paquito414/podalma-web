@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 100 420 170" fill="none" stroke="#CDBBA7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Piedras apiladas en equilibrio · ilustración de línea original PodAlma -->
+  <g vector-effect="non-scaling-stroke">
+    <path vector-effect="non-scaling-stroke" d="M2 252 C 48 236, 96 234, 140 244 C 152 247, 160 249, 168 248"/>
+    <path vector-effect="non-scaling-stroke" d="M252 249 C 268 250, 284 246, 302 241 C 340 231, 380 234, 418 250"/>
+    <path vector-effect="non-scaling-stroke" d="M150 244 C 138 228, 164 213, 208 213 C 252 213, 284 222, 278 237 C 273 249, 244 251, 212 250 C 182 249, 157 254, 150 244 Z"/>
+    <path vector-effect="non-scaling-stroke" d="M168 211 C 158 199, 184 189, 214 190 C 246 191, 264 198, 259 208 C 255 216, 233 215, 212 215 C 190 215, 173 219, 168 211 Z"/>
+    <path vector-effect="non-scaling-stroke" d="M177 187 C 170 176, 192 167, 215 168 C 241 169, 254 177, 249 185 C 245 192, 229 191, 213 191 C 196 191, 181 195, 177 187 Z"/>
+    <path vector-effect="non-scaling-stroke" d="M191 165 C 179 150, 186 123, 212 119 C 239 115, 252 136, 245 152 C 238 168, 201 180, 191 165 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# La plantilla de artículos no debe aparecer en Google
+Disallow: /blog/_plantilla-articulo.html
+
+Sitemap: https://gemmaribas.com/sitemap.xml
